@@ -10,12 +10,16 @@
 
 ## 🔨 STEP2
 
-내 폴더 내에 문제 풀고 커밋하기    
+내 폴더 내에 문제 풀고 커밋하기
+
+### 폴더 구조
+* Commit Message: [문제 사이트]/분류/문제번호 문제이름/사용자이름 형식으로 커밋
+* 예시 : LeetCode/Math/1002 A+B/jimmiS2.java
+* Descroption: 문제주소 
+
+### 본문
 구현 로직 설명 
 실패 했다면, 원인 파악 및 해결 방안 설명
-
-* Commit Message: [문제 사이트] 문제 번호/ 문제이름
-* Descroption: 문제주소 
 
 &nbsp;
 
